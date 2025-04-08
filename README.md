@@ -1,4 +1,4 @@
-# Simple Sprite Packer v1.11 by ChoMPI
+# Simple Sprite Packer
 
 ## How to Use?
 - Right click in the Project view the go to Create -> Sprite Packer.
